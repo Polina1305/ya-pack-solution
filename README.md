@@ -5,7 +5,7 @@
 ## Установка приложения
 
 ### Клонируйте репозиторий по ссылке
-- [Ссылка на репозиторий](https://github.com/AlexandrShargano5/ya-pack-solution.git)
+- [Ссылка на репозиторий](https://github.com/AlexandrSharganov/ya-pack-solution.git)
 
 
 ## Установка и запуск в Docker:
